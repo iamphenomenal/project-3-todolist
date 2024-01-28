@@ -101,7 +101,7 @@ ul li.checked::before {
 }
 ul li span {
   position:absolute;
-  right:120px;
+  right:500px;
 }
 ul li span:hover {
   color: black;
