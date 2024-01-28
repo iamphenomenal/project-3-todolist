@@ -100,7 +100,8 @@ ul li.checked::before {
   background-image: url(checked.png);
 }
 ul li span {
-  margin-left: 450px;
+  position:absolute;
+  right:120px;
 }
 ul li span:hover {
   color: black;
